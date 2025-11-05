@@ -1,10 +1,10 @@
-# Kachi Todo
+# TASQ
 
 A modern, full-featured Todo List application built with **Next.js 16**, **TypeScript**, **PostgreSQL**, and **Prisma**. Features include todo lists, task management, filtering, dark mode, offline support, and productivity tracking.
 
 
 
-[Kachi-todo-app](https://kachi-todo.vercel.app//)
+[Tasq](https://kachi-todo.vercel.app//)
 
 ![Tasq](./docs/screenshots/tasq-screenshot.png)
 
@@ -50,7 +50,7 @@ For detailed information about the project structure, component organization, an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kachi33/kachi-todo.git
+git clone https://github.com/kachi33/tasq.git
 cd kachi-todo
 ```
 
