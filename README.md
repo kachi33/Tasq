@@ -4,7 +4,7 @@ A modern, full-featured Todo List application built with **Next.js 16**, **TypeS
 
 
 
-You can view tasq in action [here](https://kachi-todo.vercel.app//) 
+You can view tasq in action [here](https://tasq-zeta.vercel.app//) 
 
 ![Tasq](./docs/screenshots/tasq-screenshot.png)
 
