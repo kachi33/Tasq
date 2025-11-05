@@ -1,4 +1,4 @@
-# Contributing to Kachi Todo
+# Contributing to Tasq
 
 Thank you for your interest in contributing! This document provides guidelines and instructions for contributing to the project.
 
@@ -26,13 +26,13 @@ Thank you for your interest in contributing! This document provides guidelines a
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/kachi-todo.git
+   git clone https://github.com/YOUR_USERNAME/tasq.git
    cd kachi-todo
    ```
 
 3. **Add upstream remote**
    ```bash
-   git remote add upstream https://github.com/kachi33/kachi-todo.git
+   git remote add upstream https://github.com/kachi33/tasq.git
    ```
 
 4. **Install dependencies**
@@ -62,7 +62,7 @@ Thank you for your interest in contributing! This document provides guidelines a
 ### Environment Variables
 Required environment variables in `.env`:
 ```env
-DATABASE_URL="postgresql://user:password@localhost:5432/kachi_todo"
+DATABASE_URL="postgresql://user:password@localhost:5432/tasq"
 ```
 
 ### Database Changes
@@ -495,4 +495,4 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 ---
 
-Thank you for contributing to Kachi Todo! Your efforts help make this project better for everyone.
+Thank you for contributing to tasq! Your efforts help make this project better for everyone.
