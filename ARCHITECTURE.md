@@ -1,7 +1,7 @@
 # Project Architecture
 
 ## Overview
-Kachi Todo is a modern, offline-first task management application built with Next.js 16, TypeScript, and PostgreSQL. This document outlines the project's architecture, folder structure, and key technical decisions.
+Tasq is a modern, offline-first task management application built with Next.js 16, TypeScript, and PostgreSQL. This document outlines the project's architecture, folder structure, and key technical decisions.
 
 ## Tech Stack Summary
 - **Framework**: Next.js 16 (App Router)
@@ -14,7 +14,7 @@ Kachi Todo is a modern, offline-first task management application built with Nex
 ## Folder Structure
 
 ```
-kachi-todo/
+tasq/
 ├── public/                    # Static assets
 │   ├── manifest.json         # PWA manifest
 │   ├── service-worker.js     # Service worker for offline support
